@@ -7,4 +7,5 @@ This repository accompanies our Quantum Computing course and collects the lesson
 Beyond the basics, the repo also includes modules on key early quantum algorithms and concepts, including Deutsch / Deutsch–Jozsa, Bernstein–Vazirani (including a recursive perspective), and an introduction to the Quantum Fourier Transform with connections to the classical DFT/FFT. 
 
 # NOTE:
-The repository is still a work in progress. We are actively expanding it and will continue adding new lessons, examples, and supporting material over time. Created and maintained by # Dr. Sina Kazemian and # Dr. Ghazal Farhani.
+
+The repository is still a work in progress. We are actively expanding it and will continue adding new lessons, examples, and supporting material over time. Created and maintained by Dr. Sina Kazemian and Dr. Ghazal Farhani.
