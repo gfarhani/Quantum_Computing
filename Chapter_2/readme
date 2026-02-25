@@ -1,5 +1,4 @@
-In this chapter, we will introduce two quantum algorithms, the first
-one is called the Deutsch-Jozsa (DJ) algorithm, and the second one is
-called the Bernstein-Vazirani (BV) algorithm. But, before getting into
-quantum algorithms, it is essential to explain why in quantum we need
-reversible gates?
+In this chapter, we introduce two quantum algorithms: the Deutsch–Jozsa (DJ) algorithm and the Bernstein–Vazirani (BV) algorithm. 
+Before diving into these algorithms, we first explain why quantum computing requires **reversible** gates. 
+
+The chapter also includes the code implementation of the DJ algorithm.
