@@ -8,4 +8,4 @@ Beyond the basics, the repo also includes modules on key early quantum algorithm
 
 # NOTE
 
-The repository is still a work in progress. We are actively expanding it and will continue adding new lessons, examples, and supporting material over time. Created and maintained by # Dr. Sina Kazemian and # Dr. Ghazal Farhani.
+The repository is still a work in progress. We are actively expanding it and will continue adding new lessons, examples, and supporting material over time. Created and maintained by #Dr. Sina Kazemian and #Dr. Ghazal Farhani.
